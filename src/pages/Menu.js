@@ -88,6 +88,8 @@ export default class Menu extends Component {
       })
   }
 
+  
+
   async excluirTarefa(tarefa) {
     const { currentUser } = await firebase.auth()
     Alert.alert(

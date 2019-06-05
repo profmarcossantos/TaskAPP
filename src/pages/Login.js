@@ -39,13 +39,13 @@ export default class Login extends Component {
             carregando: true
         };
         var firebaseConfig = {
-            apiKey: "AIzaSyAHl61YV9Z2J5kBQ4LvpvTuuuYmFkyR-Mk",
-            authDomain: "tasksprofmarcos.firebaseapp.com",
-            databaseURL: "https://tasksprofmarcos.firebaseio.com",
-            projectId: "tasksprofmarcos",
-            storageBucket: "tasksprofmarcos.appspot.com",
-            messagingSenderId: "573959989821",
-            appId: "1:573959989821:web:6bd712865d1f6b16"
+            apiKey: "*************************",
+            authDomain: "*************************",
+            databaseURL: "*************************",
+            projectId: "*************************",
+            storageBucket: "*************************",
+            messagingSenderId: "*************************",
+            appId: "*************************"
         };
         // Initialize Firebase
         if (!firebase.apps.length) {
